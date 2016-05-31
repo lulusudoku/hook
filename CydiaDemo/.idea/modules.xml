@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CydiaDemo.iml" filepath="$PROJECT_DIR$/CydiaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectprocess/injectprocess.iml" filepath="$PROJECT_DIR$/injectprocess/injectprocess.iml" />
+    </modules>
+  </component>
+</project>
